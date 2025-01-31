@@ -99,9 +99,8 @@ color: #0e0e0e91;
 
 
 /* main section styles */
-.main1{
-    margin-left: 160px; 
-  margin-right: 160px;
+.main2{
+  margin-top: 70px;
   
 }
 
@@ -110,6 +109,12 @@ color: #0e0e0e91;
 .name{
     font-size: 20px;
     font-weight: bold;
+}
+
+.title{
+font-size: 40px;
+font-weight: 700;
+text-align: left;
 }
 
 .details{
@@ -133,4 +138,69 @@ color: #0e0e0e91;
     border-radius: 16px;
     padding: 24px;
     background: rgb(255, 255, 255);
+    padding: 32px;
 }
+
+/* the vision of future boxs bg-color styles */
+
+.p1{
+    background: rgba(84, 144, 245, 0.2) ;
+}
+.p2{
+    background: rgb(198, 228, 214);
+}
+.p3{
+   background: rgb(247, 235, 207);
+}
+
+/* main2 section button styles */
+
+.main2-p1-btn{
+    border-radius: 8px;
+    background: rgb(84, 144, 245);
+    color: white;
+    width: 122px;
+    height: 41px;
+    border:none ;
+}
+.main2-p2-btn{
+    border-radius: 8px;
+    background: rgb(9, 161, 92);
+    color: white;
+    width: 122px;
+    height: 41px;
+    border:none ;
+}
+.main2-p3-btn{
+    border-radius: 8px;
+    background: rgb(255, 194, 57);
+    color: white;
+    width: 122px;
+    height: 41px;
+    border:none ;
+}
+
+/* main3 section styles */
+
+.main3{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+margin-top: 50px;
+padding:25px;
+position: relative;
+}
+
+.q-img{
+    margin-top: 20px;
+    position: absolute;
+    top:2px
+}
+
+    
+
+
+    
+      
+    
