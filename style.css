@@ -272,3 +272,54 @@ table {
     border-radius: 24px;
    
 }
+
+/* main7 section styles */
+
+.main7{
+    margin-top: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.money-content .title {
+    text-align: center;
+    
+}
+.money-content .details {
+    text-align: center;
+    
+    
+}
+.money-box{
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+.money-option{
+    height: 128px;
+    width: 264px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+    font-size: 40px;
+    font-weight: 700;
+    
+}
+.another-taka-option{
+    width: 1032px;
+    height: 64px;
+    color : rgba(10, 10, 10, 0.568);
+    box-sizing: border-box;
+    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    background: rgb(255, 255, 255);
+    text-align: center;
+    padding: 40px;
+    margin-top: 40px;
+    margin-left: 220px ;
+    justify-content: center;
+   
+}
+.select-amount{
+    background: rgb(198, 228, 214);
+}
