@@ -377,3 +377,17 @@ input{
     height: 41px;
     border:none ;
 }
+
+/* last part of footer */
+
+.ft2{
+    margin-top: 70px;
+    justify-content: center;
+    text-align: center;
+}
+.ft2 .title{
+    text-align: center;
+}
+.spacing-logo{
+   padding-right:  20px;
+}
