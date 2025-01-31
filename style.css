@@ -325,6 +325,7 @@ table {
     justify-content: center;
    
 }
+
 .select-amount{
     background: rgb(198, 228, 214);
 }
@@ -333,3 +334,46 @@ table {
     margin-top: 40px;
 }
 
+/* footer styles */
+/* subscribe button styles */
+
+.ft1{
+    
+    width: 1280px;
+    height: 300px;
+    padding: 80px 100px 80px 100px;
+    border-radius: 24px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 70px;
+    background: rgb(198, 228, 214);
+}
+
+.sub-content .title{
+    justify-content: center;
+    text-align: center;
+}
+
+
+label{
+    display: flex;
+    justify-content: center;
+    
+   
+}
+input{
+    width: 600px;
+    border: none;
+    padding: 0 40px;
+   
+}
+.sub-btn{
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+    border-radius: 0 8px 8px 0 ;
+    
+    color: white;
+    width: 122px;
+    height: 41px;
+    border:none ;
+}
