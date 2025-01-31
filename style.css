@@ -279,13 +279,18 @@ table {
     margin-top: 70px;
     margin-left: 200px;
     margin-right: 200px;
+    justify-items: center;
 }
+
+
+
 .money-content .title {
     text-align: center;
     
 }
 .money-content .details {
     text-align: center;
+    justify-content: center;
     
     
 }
@@ -311,15 +316,20 @@ table {
     height: 64px;
     color : rgba(10, 10, 10, 0.568);
     box-sizing: border-box;
-    border-bottom: 1px solid rgba(14, 14, 14, 0.15);
+    border-bottom: 1px solid rgba(48, 46, 46, 0.411);
     background: rgb(255, 255, 255);
     text-align: center;
     padding: 40px;
     margin-top: 40px;
-    margin-left: 220px ;
+    
     justify-content: center;
    
 }
 .select-amount{
     background: rgb(198, 228, 214);
 }
+
+.money-btn{
+    margin-top: 40px;
+}
+
