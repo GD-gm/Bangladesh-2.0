@@ -217,18 +217,47 @@ position: relative;
     
 .main4{
     margin-top: 50px;
+    
 }
 .opinion-box{
     border-radius: 16px;
-    background: rgb(255, 255, 255);
-    justify-content: space-between;
+    align-items: center;
+   
+    
 }
 
-table {
+table{
     width: 1280px;
-    height: 409px;
-}
+    height: 409px;}
 
+th{
+      background-color: rgb(198, 228, 214);
+}
+   
+ table, tr, td{
+    border: 2px solid rgba(95, 95, 95, 0.233);
+    
+}
+table,td, th,tr{
+    border-collapse: collapse;
+}
+td {
+    padding-left: 50px;
+}
+tr td{
+    background-color: white;
+}
+.option{
+    width: 152px;
+    height: 44px;
+    box-sizing: border-box;
+    border: 1px solid rgba(77, 76, 76, 0.507);
+    border-radius: 4px;
+    font-weight: bold;
+    text-align: center;
+    background: rgba(9, 161, 92, 0.15);
+    margin-left: 40px;
+}
 /* main5 section styles */
 
 .main5{
